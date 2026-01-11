@@ -25,7 +25,7 @@ do
     then
         echo "OK: Service '$SERVICE' is running."
     else
-        echo "ERROR: Service '$SERVICE' is not running."
+        echo "ERROR: Service '$SERVICE' is not running or not present."
         STATUS=1
     fi
 done
