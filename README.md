@@ -10,7 +10,8 @@ Each folder represents an independent project or tool, with its own documentatio
 
 ## Repository Structure
 
-bash-automation/  
+**bash-automation/**  
+
 Linux automation scripts written in Bash, focusing on system monitoring, exit codes, logging, and automation-friendly behavior.
 
 Additional projects will be added over time as part of continuous learning in areas such as containers, CI/CD and infrastructure as code.
